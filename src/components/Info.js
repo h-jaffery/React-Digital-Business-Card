@@ -8,7 +8,7 @@ export default function Info() {
         <div className='info'>
             <img src={PersonImage} alt='not me'/>
             <h1>Hasnain Jaffery</h1>
-            <h2>Student</h2>
+            <h2>Computer Science Student</h2>
             <h3>hasnainjaffery.website</h3>
             <div className='info--buttons'>
                 <a href='mailto: hasnain.jafferyy@gmail.com'>
